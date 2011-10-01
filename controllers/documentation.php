@@ -1,5 +1,5 @@
 <?php
-class App_template extends Site_Controller
+class Documentation extends Site_Controller
 {
     function __construct()
     {
@@ -8,7 +8,7 @@ class App_template extends Site_Controller
 	
 	function index()
 	{
-		$this->data['page_title'] = 'App Template';
+		$this->data['page_title'] = 'Documentation';
 		$this->render();	
 	}
 
