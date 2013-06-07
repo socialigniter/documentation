@@ -1,1 +1,0 @@
-<li><a class="sidebar_icon" href="<?= base_url() ?>home/documentation"><img src="<?= $this_module_assets ?>documentation_24.png"><span>Documentation</span></a></li>
